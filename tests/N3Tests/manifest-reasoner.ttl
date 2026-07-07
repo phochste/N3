@@ -21,7 +21,7 @@
       :cwm_includes_listin :cwm_includes_bnode :cwm_includes_concat
       :cwm_includes_conclusion_simple :cwm_includes_conclusion
       :cwm_includes_conjunction
-      :cwm_includes_t1 :cwm_includes_t2 :cwm_includes_t3 :cwm_includes_t4:cwm_includes_t6 :cwm_includes_t8
+      :cwm_includes_t1 :cwm_includes_t2 :cwm_includes_t3 :cwm_includes_t4 :cwm_includes_t6 :cwm_includes_t8
       :cwm_includes_builtins
       :cwm_includes_t9br :cwm_includes_t10 :cwm_includes_t11
       :cwm_includes_quantifiers_limited # Uses explicit quantifiers
